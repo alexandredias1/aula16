@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\bin\Debug\net6.0\aplicativo.exe
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\bin\Debug\net6.0\aplicativo.deps.json
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\bin\Debug\net6.0\aplicativo.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\bin\Debug\net6.0\aplicativo.dll
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\bin\Debug\net6.0\aplicativo.pdb
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.dll
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\refint\aplicativo.dll
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.pdb
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\aplicativo.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\aula16\aplicativo\obj\Debug\net6.0\ref\aplicativo.dll
