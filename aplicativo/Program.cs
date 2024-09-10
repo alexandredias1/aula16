@@ -1,8 +1,5 @@
-﻿
-Console.Write("Escolha a forma que deseja viajar: \n1 - Uber\n2 - Taxi\n3 - UberMoto ");
+﻿Console.Write("Escolha a forma que deseja viajar: \n1 - Uber\n2 - Taxi\n3 - UberMoto ");
 int escolha = Convert.ToInt32(Console.ReadLine());
-
-
 
 
 switch (escolha)
